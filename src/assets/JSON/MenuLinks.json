@@ -1,0 +1,189 @@
+{
+    "PublicMenu": {
+        "Name": "Guest",
+        "menuitem": [
+            {
+                "id": 0,
+                "menuName": "Contact",
+                "menuLink": "/contact"
+            },
+            {
+                "id": 1,
+                "menuName": "About",
+                "menuLink": "/about"
+            },
+            {
+                "id": 2,
+                "menuName": "Help",
+                "menuLink": "/help"
+            },
+            {
+                "id": 4,
+                "menuName": "Profile",
+                "menuLink": "/profile/basic-details"
+            },
+            {
+                "id": 3,
+                "menuName": "Log Out",
+                "menuLink": "/logout"
+            }
+        ]
+    },
+    "AdminMenu": {
+        "Name": "Admin",
+        "menuitem": [
+            {
+                "id": 0,
+                "menuName": "Dashboard",
+                "menuLink": "/dashboard"
+            },
+            {
+                "id": 1,
+                "menuName": "Course List",
+                "menuLink": "/CourseList"
+            },
+            {
+                "id": 1,
+                "menuName": "Course Category",
+                "menuLink": "/CourseCategory"
+            },
+            {
+                "id": 1,
+                "menuName": "Student List",
+                "menuLink": "/StudentsList"
+            },
+            {
+                "id": 1,
+                "menuName": "Teacher List",
+                "menuLink": "/TeachersList"
+            },
+            {
+                "id": 2,
+                "menuName": "Teacher Register",
+                "menuLink": "/teacher-register-request"
+            },
+            {
+                "id": 2,
+                "menuName": "Payment Approval",
+                "menuLink": "/teacher-payment-approval"
+            },
+            {
+                "id": 2,
+                "menuName": "Course Approval",
+                "menuLink": "/course-approval"
+            },
+            {
+                "id": 3,
+                "menuName": "Purchase History",
+                "menuLink": "/transaction-report"
+            }
+        ]
+    },
+    "StudentMenu": {
+        "Name": "Student",
+        "menuitem": [
+            {
+                "id": 0,
+                "menuName": "Dashboard",
+                "menuLink": "/StudentDahboard"
+            },
+            {
+                "id": 1,
+                "menuName": "Courses",
+                "menuLink": "/courses"
+            },
+            {
+                "id": 1,
+                "menuName": "My Learnings",
+                "menuLink": "/my-learnings/mycourse"
+            },
+            {
+                "id": 2,
+                "menuName": "My Cart",
+                "menuLink": "/cart"
+            },
+            {
+                "id": 3,
+                "menuName": "Wishlist",
+                "menuLink": "/my-learnings/wishlist"
+            },
+            {
+                "id": 3,
+                "menuName": "Purchase History",
+                "menuLink": "/order-history"
+            },
+            {
+                "id": 3,
+                "menuName": "Certifications",
+                "menuLink": "/certificate-list"
+            },
+            {
+                "id": 3,
+                "menuName": "My Ratings",
+                "menuLink": "/my-ratings"
+            }
+        ]
+    },
+    "TeacherMenu": {
+        "Name": "Teacher",
+        "menuitem": [
+            {
+                "id": 0,
+                "menuName": "Dashboard",
+                "menuLink": "/dashboard"
+            },
+            {
+                "id": 1,
+                "menuName": "Course List",
+                "menuLink": "/CourseList"
+            },
+            {
+                "id": 1,
+                "menuName": "Student List",
+                "menuLink": "/StudentsList"
+            },
+            {
+                "id": 2,
+                "menuName": "Payment Request",
+                "menuLink": "/payment-request"
+            },
+            {
+                "id": 3,
+                "menuName": "Purchase History",
+                "menuLink": "/transaction-report"
+            }
+        ]
+    },
+    "FooterLinks": {
+        "Footer1": {
+            "Name": "Category 1",
+            "menuitem": [
+                {
+                    "id": 0,
+                    "menuName": "FAQ",
+                    "menuLink": "/faq"
+                },
+                {
+                    "id": 1,
+                    "menuName": "Student Menu2",
+                    "menuLink": "#"
+                }
+            ]
+        },
+        "Footer2": {
+            "Name": "Category1",
+            "menuitem": [
+                {
+                    "id": 0,
+                    "menuName": "FAQ",
+                    "menuLink": "/faq"
+                },
+                {
+                    "id": 1,
+                    "menuName": "Student Menu2",
+                    "menuLink": "#"
+                }
+            ]
+        }
+    }
+}
